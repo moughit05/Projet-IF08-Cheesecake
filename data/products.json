@@ -1,34 +1,38 @@
 [
   {
-    "product_name": "Véritable Petit Beurre Lu 400g",
+    "product_name": "Biscuits émiettés 250g",
     "code_barres": "7622210476104"
   },
   {
-    "product_name": "Le beurre tendre Elle&Vire 250g",
+    "product_name": "Beurre doux 125g",
     "code_barres": "3451790988677"
   },
   {
-    "product_name": "La Faisselle Rians 500g",
+    "product_name": "Fromage blanc (type faisselle) 500g",
     "code_barres": "3184670001141"
   },
   {
-    "product_name": "Daddy semoule sachet 1kg",
+    "product_name": "Sucre semoule 150g",
     "code_barres": "3165430520003"
   },
   {
-    "product_name": "Farine de blé T45 Francine 1kg",
-    "code_barres": "3068110702235"
+    "product_name": "Feuille de gélatine",
+    "code_barres": "3564700463048"
   },
   {
-    "product_name": "Crème fraîche entière Yoplait 450g",
-    "code_barres": "3329770082410"
+    "product_name": "Huile",
+    "code_barres": "3265471024086"
   },
   {
-    "product_name": "Arôme vanille Bourbon Vahiné 50ml",
-    "code_barres": "3179142720200"
+    "product_name": "Sucre vanillé",
+    "code_barres": "8722700030119"
   },
   {
-    "product_name": "Stéphanie eleveur Oeufs de france 6pcs",
-    "code_barres": "20057251"
+    "product_name": "Crème fleurette",
+    "code_barres": "3451790012358"
+  },
+  {
+    "product_name": "Jus citron vert",
+    "code_barres": "3478820088879"
   }
 ]

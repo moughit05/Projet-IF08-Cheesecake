@@ -1,32 +1,34 @@
 {
-  "title": "Cheesecake",
-  "description": "Recette d'un chessecake inratable, facile à faire et délicieux.",
+  "title": "Cheesecake au citron vert (sans cuisson)",
+  "description": "Recette d'un chessecake au citron vert (sans cuisson), facile à faire et délicieux.",
   "etapes": [
-    "1. Préchauffez le four à 180°C (thermostat 6). Tapissez de papier sulfurisé et préalablement beurré un moule de 23 cm de diamètre. Idéalement, le fond du moule doit être amovible, sinon, laissez bien dépasser le papier pour démouler facilement le gâteau en tirant dessus. Mélangez les biscuits, la muscade et le beurre fondu.",
-    "2. Tapissez le fond du moule de ce mélange en tassant bien avec le dos d'une cuillère. Placez au réfrigérateur.",
-    "3. Battez la faisselle au fouet jusqu'à ce qu'elle soit lisse, puis ajoutez le sucre et la farine et les oeufs un par un. Ajoutez ensuite la crème et le parfum de votre choix.",
-    "4. Versez cette préparation sur la croûte biscuitée (si la croûte 'dépasse' de la crème, enlevez le surplus à la cuillère, cela risque de brûler).",
-    "5. Enfournez pour 50-55 minutes de cuisson jusqu'à ce que la préparation au fromage soit ferme au toucher.",
-    "6. Laissez refroidir, démoulez et servez frais."
+    "1. Enfermez le fromage dans un linge fin, posez le dans dans une passoire avec un poids dessus et laissez égoutter 2h au frais.",
+    "2. Ecrasez les sablés et mélangez les avec le beurre fondu pour obtenir une pâte homogène. Étalez-la du bout des doigts dans un moule à charnières (fond amovible) huilé et réservez 20 minutes au frais.",
+    "3. Faites ramollir les feuilles de gélatine dans l'eau froide. Montez 20cl de crème en chantilly bien ferme et sucrez la (20g).",
+    "4. Chauffez 5cl de crème et faites y fondre la gélatine égouttée. Mélangez la avec le citron, la faisselle, 100g de sucre et le sucre vanillé. Incorporez délicatement la crème fouettée.",
+    "5. Remplissez le moule de cette préparation. Egalisez la surface avec une spatule humide et reservez 4h au réfrigérateur.",
+    "6. Démoulez le gateau. Ajoutez eventuellement 200g de fraises lavées et coupées pour décorer le cheesecake."
   ],
   "ingredients": [
     "Biscuits émiettés 250g",
     "Beurre doux 125g",
     "Fromage blanc (type faisselle) 500g",
     "Sucre semoule 150g",
-    "Farine 2c.s",
-    "Crème fraîche 25cl",
-    "Arôme vanille 2c.s",
-    "3 Oeufs"
+    "Feuille de gélatine",
+    "Huile",
+    "Sucre vanillé",
+    "Crème fleurette",
+    "Jus citron vert"
   ],
   "codes_barres": [
     "7622210476104",
     "3451790988677",
     "3184670001141",
     "3165430520003",
-    "3068110702235",
-    "3329770082410",
-    "3179142720200",
-    "20057251"
+    "3564700463048",
+    "3265471024086",
+    "8722700030119",
+    "3451790012358",
+    "3478820088879"
   ]
 }
