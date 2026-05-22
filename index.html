@@ -16,14 +16,14 @@
 <body>
 
     <main>
-        <div class="px-4 text-center">
+        <div class="px-4 py-5 my-5 text-center">
             <h1 class="display-5 fw-bold">Le Cheesecake</h1>
-            <img class="d-block mx-auto mb-4"
+            <img class="img-fluid rounded shadow d-block mx-auto mb-4"
                 src="https://assets.afcdn.com/recipe/20131009/29312_w1024h768c1cx1424cy2136.jpg"
-                alt="Une photo de Cheesecake" style="max-width:30%">
+                alt="Une photo de Cheesecake" style="max-width:500px;width:100%;">
 
             <div class="col-lg-6 mx-auto">
-                <p class="lead">Recette d'un chessecake inratable, facile à faire et délicieux.</p>
+                <p class="lead">Recette d'un cheesecake inratable, facile à faire et délicieux.</p>
                 <img src="https://static.openfoodfacts.org/images/attributes/dist/nutriscore-c.svg"
                     style="height:72px" />
             </div>
@@ -39,6 +39,7 @@
 
         <div class="b-example-divider"></div>
 
+        <div class="container my-5">    
         <div class="list-group w-auto">
             <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
                 <img src="https://cdn-icons-png.flaticon.com/512/6614/6614301.png" alt="twbs" width="32" height="32"
@@ -122,6 +123,7 @@
                 </div>
             </a>
         </div>
+    </div>
 
         <div class="px-4 pt-5 my-5 text-center border-bottom container marketing">
             <p><a href="https://www.marmiton.org/recettes/recette_cheesecake-au-citron-vert-sans-cuisson_93775.aspx"
@@ -181,14 +183,15 @@
 
             const nutriScore = product.nutriscore_grade || "unknown";
 
-            content.className = "col-lg-4 text-center mb-4";
+            content.className = "col-md-6 col-lg-4 text-center mb-4";
 
             content.innerHTML = `
             <img 
-                src="${product.image_front_small_url}" 
+                src="${product.image_front_small_url }" 
                 alt="${product.product_name}"
                 width="140"
                 height="140"
+                loading="lazy"
                 style="object-fit:cover;border-radius:50%;"
             >
 
