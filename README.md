@@ -50,3 +50,7 @@ Sa particularité réside dans l'exploitation de la puissance des données ouver
 > - **Deadline** : Rendu final impératif avant le **Vendredi 5 Juin** sur le serveur FTP.
 > - **Workflow** : Suivi obligatoire sur **ClickUp** (tâches de < 2h).
 
+## Lancer le Projet 
+- Pour le bon foctionnement des API et du JS 
+  - python3 -m http.server 8000
+  - Ouvrir http://localhost:8000/ sur un navigateur 
