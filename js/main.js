@@ -1,9 +1,10 @@
+
 // ============================================================================
 // CONFIGURATION ET CONSTANTES
 // ============================================================================
 
 // Chemin vers le fichier JSON local contenant les données de la recette
-const RECIPE_URL = 'data/recipe.json';
+const RECIPE_URL = './data/recipe.json';
 
 // Dictionnaire pour convertir les lettres Nutri-Score en valeurs numériques
 const nutriScoreMap = { 'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5 };
@@ -199,4 +200,5 @@ function calculateAndDisplayAverageScore(scores) {
         mainScoreImg.src = `https://static.openfoodfacts.org/images/attributes/dist/nutriscore-${finalGrade}.svg`;
         mainScoreImg.alt = `Nutri-Score moyen : ${finalGrade.toUpperCase()}`;
     }
+
 }
