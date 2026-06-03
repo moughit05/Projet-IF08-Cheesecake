@@ -21,7 +21,7 @@ jobs:
           password: ${{ secrets.orkidees_03 }}
           port: 21
           local-dir: ./
-          server-dir: ./www/
+          server-dir: ./www/IF08/cheesecake/
           exclude: |
             **/.git*
             **/.git*/**
